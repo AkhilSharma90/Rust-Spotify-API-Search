@@ -3,9 +3,9 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
- <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=follow%20%40akhilairi&style=social&url=https%3A%2F%2Ftwitter.com%2FAkhilAiri">
 </p>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/AkhilAiri?style=social)
 
 ## Install
 

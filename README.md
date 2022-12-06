@@ -7,6 +7,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AkhilAiri?style=social)
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgMjDy6Y7WISZ529S4VyXUg?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/akhilsharma90?style=social)
+
 ## Install
 
 ```sh
